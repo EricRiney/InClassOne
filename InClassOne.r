@@ -66,3 +66,9 @@ wilcox.test(personA, personB)
 data:  personA and personB
 W = 0, p-value = 0.0002498
 alternative hypothesis: true location shift is not equal to 0 
+
+# 5
+# Put simply, the standard error of the sample mean is an estimate of 
+# how far the sample mean is likely to be from the population mean, 
+# whereas the standard deviation of the sample is the degree 
+# to which individuals within the sample differ from the sample mean.
